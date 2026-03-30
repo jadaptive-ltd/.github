@@ -1,4 +1,3 @@
-# .github
 # JADAPTIVE Limited Open Source
 
 For over 20 years, Jadaptive has been the quiet force behind some of the world’s most secure communications. From our origins in early open-source Java SSH to our current position as a multi-niche security innovator, we build the tools that keep the digital world moving.
